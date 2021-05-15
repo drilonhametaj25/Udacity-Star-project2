@@ -9,6 +9,10 @@ Solidity v0.5.16 (solc-js)
 Node v14.15.0                                                                                                           
 Web3.js v1.2.9    
 
+ERC-721 Token Name: "Sbrilly Token"
+ERC-721 Token Symbol: "SBT"
+Token Address: I don't have sufficient ETH for deploy and with faucet i have only 3 ETH
+
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
